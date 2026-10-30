@@ -36,4 +36,4 @@ My kernel detects diagonal edges, particularly those going from the bottom-left 
 ## AI and outside help
 
 List any AI tools, websites or classmates you used, and for what. Write "None" if none.
-I used Codex to help me with the coding portion of the python notebook and help me. understand the concepts deeper.
+I used Codex to help me with the coding portion of the python notebook and help me understand the concepts i still struggled to understand.
